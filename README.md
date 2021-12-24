@@ -1,9 +1,12 @@
 # burnellmusic
 
 ## Project setup
-```
+
+Create with vue create
+- vue 3 defaults
+
 npm install
-```
+
 
 ### Compiles and hot-reloads for development
 ```
