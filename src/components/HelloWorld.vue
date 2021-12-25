@@ -5,7 +5,7 @@
       Spawning legends. One lesson at a time.
     </p>
     <h3>Limited availability.</h3>
-    <h3>Contact sheldonfburnell@gmail.com for reservations.</h3>
+    <h3>Contact sheldonfburnell@gmail.com for inquiries.</h3>
 
   </div>
 </template>
